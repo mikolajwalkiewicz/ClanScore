@@ -1,1 +1,1 @@
-# TeamScore
+# ClanScore
